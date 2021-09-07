@@ -1,0 +1,13 @@
+.nice {
+  width: 200px;
+  height: 150px;
+  background-color: white;
+  position: absolute;
+}
+
+.bad {
+  width: 100%;
+  height: 50px;
+  background-color: white;
+  position: absolute;
+}
